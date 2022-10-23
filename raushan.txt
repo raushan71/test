@@ -1,2 +1,5 @@
 welcome to github
-modified 
+modified github
+
+git pull s
+git clone
